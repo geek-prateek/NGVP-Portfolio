@@ -214,6 +214,7 @@ section .title::after{
 }
 
 /*Project Skills*/
+
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
